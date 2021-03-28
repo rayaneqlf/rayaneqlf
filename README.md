@@ -11,7 +11,6 @@ const Rayane = {
         from: "Belgium",
         age: "13",
     },
-    
     reseau: {
         discord: "rayanee#0212",
         instagram: "rayanee.detp",
