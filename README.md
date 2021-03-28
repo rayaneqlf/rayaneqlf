@@ -7,7 +7,7 @@
 ```JS
 const Rayane = {
     info: {
-        name: "Rayane"
+        name: "Rayane",
         from: "Belgium",
         age: "13",
     },
