@@ -22,7 +22,9 @@ const Rayane = {
 
 ### Github :
 
-<p align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=rayaneqlf&&show_icons=true&title_color=FFFFFF&icon_color=FF0000&text_color=daf7dc&bg_color=000000">
+
+<p align="light">
 <a href="https://github.com/rayaneqlf">
   <img src="https://img.shields.io/github/followers/rayaneqlf">
 </a>
@@ -30,6 +32,5 @@ const Rayane = {
    <img src="https://komarev.com/ghpvc/?username=rayaneqlf">
 </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=rayaneqlf&&show_icons=true&title_color=FFFFFF&icon_color=FF0000&text_color=daf7dc&bg_color=000000">
 
 --------------------------------------------------------------------
