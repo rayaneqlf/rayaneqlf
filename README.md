@@ -5,7 +5,7 @@
 --------------------------------------------------------------------
 <p align="center">
     ### About Me :
-    </p>
+</p>
 
 <img align='right' src="https://i.pinimg.com/originals/86/02/b8/8602b8e45b36e3c9f6312319e261133b.gif" width="230">
 
