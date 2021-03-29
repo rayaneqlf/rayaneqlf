@@ -3,6 +3,7 @@
 ### Hey, I'm Rayane ! 👋
 
 --------------------------------------------------------------------
+<img align='right' src="https://media0.giphy.com/media/vwF24ptRKfRCgGW7pg/source.gif" width="230">
 
 ```JS
 const Rayane = {
