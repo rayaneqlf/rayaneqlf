@@ -15,6 +15,7 @@ const Rayane = {
         discord: "rayanee#0212",
         instagram: "rayanee.detp",
         twitter: "rayaneuh212",
+        dsc.bio: "rayaneuh212",
     languages: ["Python", "HTML", "CSS", "JavaScript", "C++"]
 };
 ```
