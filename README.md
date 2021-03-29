@@ -1,8 +1,7 @@
    ### Hey, I'm Rayane ! 👋
 --------------------------------------------------------------------
-   ### About Me :
 
-<img align='right' src="https://i.pinimg.com/originals/86/02/b8/8602b8e45b36e3c9f6312319e261133b.gif" width="230">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rayaneqlf&&show_icons=true&title_color=FFFFFF&icon_color=FF0000&text_color=daf7dc&bg_color=000000" width="230">
 
 ```JS
 const Rayane = {
@@ -21,9 +20,6 @@ const Rayane = {
 ```
 --------------------------------------------------------------------
 
-### Github :
-
-<img src="https://github-readme-stats.vercel.app/api?username=rayaneqlf&&show_icons=true&title_color=FFFFFF&icon_color=FF0000&text_color=daf7dc&bg_color=000000">
 
 <p align="light">
 <a href="https://github.com/rayaneqlf">
