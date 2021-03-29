@@ -22,7 +22,7 @@ const Rayane = {
 
 ### Github :
 
-<p align="center">
+<p align="right">
 <a href="https://github.com/rayaneqlf">
   <img src="https://img.shields.io/github/followers/rayaneqlf">
 </a>
