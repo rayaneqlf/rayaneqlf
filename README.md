@@ -7,12 +7,12 @@
 const Rayane = {
     info: {
         name: "Rayane",
-        from: "Belgium",
-        age: "13",
+        from: "Liège, Belgium",
+        age: "16",
     },
     reseau: {
-        discord: "rayanee#0212",
-        instagram: "rayanee.detp",
+        discord: "rayane#8008",
+        instagram: "rayaneeeeeeqlf",
         twitter: "rayaneuh212",
         dsc.bio: "rayaneuh212",
     languages: ["Python", "HTML", "CSS", "JavaScript", "C++"]
